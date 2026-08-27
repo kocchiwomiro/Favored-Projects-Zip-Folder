@@ -1,4 +1,4 @@
-**This is a folder containing some of my favorite projects that I worked on in college.**
+**This is a folder containing some of my favorite projects that I worked on in college.**\
 -A shooting game where you target aim a bow and shoot an arrow towards a ghost.\
 -A 3d castle with a functioning drawbridge (partner-project, designed walls, lampposts, and river).\
 -A test of various versions of the cifar10 image recognition llm, with an analysis of the results.\
